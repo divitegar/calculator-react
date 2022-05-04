@@ -26,9 +26,9 @@ const CalculatorApp = () => {
   return (
     <>
       <section>
-        <div className="bg-green-900 w-96 h-screen mx-auto rounded-lg overflow-hidden mt-10">
+        <div className="bg-blue-500 w-96 h-full pb-5 mx-auto rounded-lg overflow-hidden my-20">
           <div className="text-gray-200 w-full font-bold text-3xl h-16 flex items-center space-x-2 pl-2">
-            <p>CALCULATOR APP</p>
+            <p>MY CALCULATOR</p>
           </div>
 
           {/* screen */}
